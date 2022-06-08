@@ -1,0 +1,22 @@
+{
+  "name": "testrepository",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A01551343/testrepository.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/A01551343/testrepository/issues"
+  },
+  "homepage": "https://github.com/A01551343/testrepository#readme",
+  "devDependencies": {
+    "cypress": "^9.7.0"
+  }
+}
